@@ -1,2 +1,2 @@
-Sprint 8 project
+madLibsApp project
 READ ME
